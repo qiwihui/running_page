@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://running.qiwihui.com/sitemap/sitemap-index.xml
+Host: https://running.qiwihui.com
